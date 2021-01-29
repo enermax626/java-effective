@@ -13,17 +13,10 @@ public class BuilderPattern {
 
 		System.out.println(carrao2);
 		
-
-		System.out.println(carrao2);
-		
-
-		System.out.println(carrao2);
-		
-		
 		
 		Boolean.valueOf(null);
 
-		
+		System.out.println(carrao2);
 	}
 	
 	
