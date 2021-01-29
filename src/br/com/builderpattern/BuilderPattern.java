@@ -13,12 +13,7 @@ public class BuilderPattern {
 
 		System.out.println(carrao2);
 		
-
-		System.out.println(carrao2);
-		
-
-		System.out.println(carrao2);
-		
+		System.out.println("Comitando alteracao1 na branch dela");
 		
 		
 		Boolean.valueOf(null);
