@@ -11,10 +11,16 @@ public class BuilderPattern {
 		
 		Carro carrao3= new Carro.Builder("Blindado", 140).vidros("Laranja").build();
 
+		
+		Carro carrao4= new Carro.Builder("Blindado", 140).vidros("Vermelho").build();
+		
+		Carro carrao5= new Carro.Builder("Blindado", 140).vidros("Azul").build();
+		
 		System.out.println(carrao);
 
+		System.out.println(carrao5);
 		
-		
+		System.out.println(carrao4);
 
 		System.out.println(carrao3);
 		
