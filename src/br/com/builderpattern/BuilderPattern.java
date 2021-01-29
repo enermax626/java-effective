@@ -8,8 +8,6 @@ public class BuilderPattern {
 		Carro carrao= new Carro.Builder("Blindado", 140).espelho("Refletivo").vidros("Fume").build();
 		
 		Carro carrao2= new Carro.Builder("Blindado", 140).vidros("Laranja").build();
-		
-		Carro carrao3= new Carro.Builder("Blindado", 140).vidros("Laranja").build();
 
 		System.out.println(carrao);
 
@@ -19,10 +17,11 @@ public class BuilderPattern {
 		System.out.println(carrao3);
 		
 		System.out.println(carrao2);
+		System.out.println("teste212");
 		
 		Boolean.valueOf(null);
 
-		
+		System.out.println(carrao2);
 	}
 	
 	
