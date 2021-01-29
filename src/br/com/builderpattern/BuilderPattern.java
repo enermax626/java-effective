@@ -14,7 +14,6 @@ public class BuilderPattern {
 		
 		System.out.println("LALALA LOLOLO ");
 
-		System.out.println(carrao3);
 		
 		System.out.println(carrao2);
 		System.out.println("teste212");
